@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 # 💫 About Me:
 I'm a passionate Full-Stack MERN Developer with hands-on experience in building scalable, responsive, and modern web applications. I specialize in MongoDB, Express.js, React.js, Node.js, and Next.js — covering the full MERN stack — along with RESTful APIs, authentication systems, and third-party integrations.<br><br>💡 My core strengths include:<br>- Developing robust backend systems with Node.js and Express<br>- Building clean, interactive, and performant UIs with React and Tailwind CSS<br>- Designing and managing both NoSQL (MongoDB) and relational (PostgreSQL, MySQL) databases<br>- Deploying full-stack applications on cloud platforms and self-managed VPS servers<br><br>I'm deeply committed to writing clean, maintainable code and continuously improving both my technical and problem-solving skills. I thrive in collaborative environments and love turning ideas into fully functional products.<br><br><br>
